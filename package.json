@@ -31,6 +31,7 @@
     "LICENSE"
   ],
   "dependencies": {
+    "auto-favicon-injector": "^1.0.0",
     "cheerio": "^1.0.0-rc.12",
     "commander": "^11.0.0",
     "fs-extra": "^11.1.1"
@@ -59,7 +60,7 @@
       }
     },
     "testPathIgnorePatterns": [
-      "/node_modules/", 
+      "/node_modules/",
       "/\\./"
     ]
   }
