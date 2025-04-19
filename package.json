@@ -17,11 +17,11 @@
     "inject",
     "cli"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Teck <ftwenty903@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/auto-favicon-injector.git"
+    "url": "https://github.com/Nom-nom-hub/auto-favicon-injector.git"
   },
   "files": [
     "bin/",

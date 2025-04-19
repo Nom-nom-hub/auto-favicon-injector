@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/auto-favicon-injector.svg)](https://www.npmjs.com/package/auto-favicon-injector)
 [![npm downloads](https://img.shields.io/npm/dm/auto-favicon-injector.svg)](https://www.npmjs.com/package/auto-favicon-injector)
-[![License](https://img.shields.io/npm/l/auto-favicon-injector.svg)](https://github.com/yourusername/auto-favicon-injector/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/auto-favicon-injector.svg)](https://github.com/Nom-nom-hub/auto-favicon-injector/blob/main/LICENSE)
 
 Automatically inject favicon links into HTML files. This utility scans a directory (and its subdirectories) for HTML files and adds a favicon link to the `<head>` section if one doesn't already exist.
 
